@@ -1,0 +1,64 @@
+body{
+    background-color: bisque;
+}
+
+.title{
+    text-align: center;
+    
+}
+.d1{
+    border: 2px solid black;
+    width: 20%;
+    height:5%;
+    margin-left: 40%;
+    text-align: center;
+}
+.I{
+    margin-left: 45%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+img{
+    margin-left:40% ;
+    width:"200" ;
+    height:"150";
+}
+
+input{
+    margin:5px;
+    padding: 5px;
+    margin-left: 43% ;
+}
+.login-box{
+    border: 3px solid black;
+    width:300px;
+    margin: 100px auto;
+    padding: 10px;
+}
+.in{
+    width:75%;
+    padding:10px;
+    margin: 8px;
+}
+
+.d2{
+    border: 1px solid black;
+    width: 30%;
+    height:20%;
+    margin-left: 40%;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+label{
+    margin-left: 43%;
+}
